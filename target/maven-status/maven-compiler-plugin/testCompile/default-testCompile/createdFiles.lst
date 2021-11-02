@@ -1,0 +1,5 @@
+com\akka\epcots\FormatReader\service\VTGServiceTest.class
+com\akka\epcots\FormatReader\FormatProcessingTest.class
+com\akka\epcots\FormatReader\service\GLLServiceTest.class
+com\akka\epcots\FormatReader\service\GGAServiceTest.class
+com\akka\epcots\FormatReader\FormatReaderApplicationTests.class

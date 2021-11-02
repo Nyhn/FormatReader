@@ -1,0 +1,10 @@
+com\akka\epcots\FormatReader\model\VTGFormat.class
+com\akka\epcots\FormatReader\service\VTGService.class
+com\akka\epcots\FormatReader\model\GLLFormat.class
+com\akka\epcots\FormatReader\service\GGAService.class
+com\akka\epcots\FormatReader\model\NMEAFormat.class
+com\akka\epcots\FormatReader\model\GGAFormat.class
+com\akka\epcots\FormatReader\service\GLLService.class
+com\akka\epcots\FormatReader\FormatProcessing.class
+com\akka\epcots\FormatReader\FormatReaderApplication.class
+com\akka\epcots\FormatReader\FormatReaderService.class
